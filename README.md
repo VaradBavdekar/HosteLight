@@ -1,4 +1,4 @@
-````markdown
+
 # HosteLight – Smart Hostel Automation System
 
 HosteLight is a comprehensive web application designed to streamline and automate hostel management processes. Built with Angular, it provides a robust, scalable, and maintainable solution for administrators, wardens, rectors, and students. The system integrates modern UI/UX, advanced state management, and AI-powered features to deliver a seamless experience.
